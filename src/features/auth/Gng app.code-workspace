@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../grabngo-api"
+		},
+		{
+			"path": "../../../../Grabngo pos"
+		}
+	],
+	"settings": {}
+}
